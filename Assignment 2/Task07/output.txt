@@ -1,0 +1,5 @@
+Shift array newest=1999999
+Circular buffer newest=1999999
+Shift insertion test time (us): 63679
+Circular insertion test time (us): 7559
+Both retain the latest 10 values; timings vary by machine/compiler.

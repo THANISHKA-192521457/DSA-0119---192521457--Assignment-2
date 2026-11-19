@@ -1,0 +1,1 @@
+No interactive input. Values and concession percentages are defined in main().

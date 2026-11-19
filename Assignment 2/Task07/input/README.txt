@@ -1,0 +1,1 @@
+Both designs receive the same 2,000,000 integer insertions. Run again on your computer for your own timing evidence.

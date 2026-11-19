@@ -1,0 +1,6 @@
+charge(2) = [int grams overload] 0.04
+charge(2.0) = [double kg overload] 100
+charge(2.0f) = [double kg overload] 100
+charge(500, true) = [int grams overload] 40
+charge(1.5, false, true) = [double kg overload] 95
+charge(Parcel) = [Parcel overload] 175

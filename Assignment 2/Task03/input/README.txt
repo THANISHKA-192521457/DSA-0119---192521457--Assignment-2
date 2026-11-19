@@ -1,0 +1,1 @@
+Six calls are shown directly in main(); no interactive input.

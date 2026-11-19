@@ -1,0 +1,1 @@
+Four BusTicket objects are created for capacity 3; four Token objects are created for the static counter test.

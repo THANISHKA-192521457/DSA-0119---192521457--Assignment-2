@@ -1,0 +1,7 @@
+-O0
+inline: 30514 microseconds; checksum=-2050000000
+non-inline: 28026 microseconds; checksum=-2050000000
+
+-O2
+inline: 14685 microseconds; checksum=-2050000000
+non-inline: 19665 microseconds; checksum=-2050000000

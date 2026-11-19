@@ -1,0 +1,1 @@
+Correctness tests are in main.cpp. benchmark.cpp runs 10,000,000 calls; compile separately with -O0 and -O2.

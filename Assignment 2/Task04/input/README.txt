@@ -1,0 +1,1 @@
+The program deposits 10 through 110, then withdraws 25. The fixed circular array retains the latest 10 transactions.

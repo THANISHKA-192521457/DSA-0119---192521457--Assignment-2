@@ -1,0 +1,5 @@
+Highest before moderation: 91
+Highest after +2: 93
+Index of highest: 1
+Value using index: 93
+Array unchanged after changing copy: 93

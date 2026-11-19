@@ -1,0 +1,1 @@
+Input array is defined in main(): 78, 91, 84, 88.

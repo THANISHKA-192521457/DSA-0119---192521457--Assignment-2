@@ -1,0 +1,2 @@
+g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01-192521457-Assignment2_COMPLETE/Task06/main.cpp -o /mnt/data/DSA01-192521457-Assignment2_COMPLETE/Task06/main.exe
+

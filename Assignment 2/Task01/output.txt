@@ -1,0 +1,9 @@
+Initial fee: 45000
+Inside value function: 40500
+After value: 45000
+After reference: 40500
+After pointer: 36450
+Returned fee (25% from current): 27338
+Reference/pointer illustration: 1 12 13
+After bigger(a,c)=100: 1 100
+Default arguments: 16 13 6 
